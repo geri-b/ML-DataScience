@@ -1,5 +1,5 @@
 ## Instructions
 
-#### PCA.py - includes the algorithm that reduced the dimension of the dataset
-#### Normalize.py - file includes the normalization of data
-#### NN.py - file includes the implementation of the Neural Network
+#### PCA.py - includes the algorithm that reduced the dimensions of the dataset
+#### Normalize.py - includes the normalization of the data process
+#### NN.py - includes the implementation of the Neural Network from scratch
