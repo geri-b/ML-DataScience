@@ -9,7 +9,7 @@
 
 ## Big Data Collection & Processing
 #### Web Scraping with BeautifulSoup and Requests
-#### Basic Natural Language Processing
+#### Converting semi-structured JSON data to structured relational database tables
 
 ## Installation
 #### To use this repository you will need to have the following installed:
