@@ -1,0 +1,2 @@
+#### This folder contains the python scripts used to extract data and put them into a structured fashion csv format. 
+#### The 'database.py' file includes the source code of converting csv files into SQL tables via pyodbc. 
